@@ -9,6 +9,6 @@ y por fin sale. Entreno martes y jueves, y los sábados hay
 partido. También llevo dos años tocando la guitarra, aunque
 ahí voy mucho más lento: me sé cuatro canciones y media.
 
-![Una jugada](capturas/imagenes.jpg)
+![Una jugada](capturas/images.jpg)
 
 ```
