@@ -1,10 +1,10 @@
 [← Volver al inicio](README.md)
 # Primer trimestre
 
-### 27/10 · La red que no funcionaba
+### 19/10 · Nos Conocemos
 
-- **Aplicación:** Packet Tracer
-- **Entregado:** U1_A5_Red_Lucia.pka
-- **Qué hice:** arreglar una red de cuatro equipos que no se veían entre sí.
+- **Aplicación:** Word - Bitmoji
+- **Entregado:** U0_A1_NosConocemos-MarioM.docx
+- **Qué hice:** crear un árbol de carpetas y un bitmoji.
 
 ---
