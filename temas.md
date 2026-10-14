@@ -16,4 +16,8 @@ Buscando en GitHub he encontrado [Handball](https://github.com//evansloan/sports
 un programa libre para escribir temas de balonmano
 
 
-```
+### 13/10 · Ada Lovelace
+
+Ada Lovelace (1815-1852) fue una matemática británica, hija del poeta Lord Byron. En 1843 tradujo un artículo sobre la máquina analítica de Charles Babbage y le añadió sus propias notas. En la Nota G describió paso a paso cómo calcular números de Bernoulli, y por eso se la considera la primera programadora. Cada segundo martes de octubre se celebra el Día de Ada Lovelace, para dar visibilidad a las mujeres en la ciencia y la tecnología.
+
+
