@@ -20,7 +20,7 @@
 
 - **Aplicación:** GitHub
 - **Entregado:** Enlace a la entrada en GitHub
-- **Qué hice:** Una entrada sobre los Premios Princesa
+- **Qué hice:** Una entrada sobre la efeméride de Ada Lovelace
 
 ---
 
